@@ -1,0 +1,58 @@
+body {
+    background-color: black;
+    text-align: center;
+    margin:8px;
+    display: block;
+}
+
+#mainHeading {
+    color: red;
+}
+
+.header{
+    margin-bottom: 25px;
+}
+
+#p1 {
+    color:white;
+    
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    padding: 30px;
+}
+
+h2 {
+    color: white;
+    padding: 25px;
+}
+
+h3 {
+    font-size: 50px;
+    color:white;
+    margin-bottom: 50px;
+}
+
+p {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+img {
+    padding:10px;
+    border-radius: 10%;
+    width:600px;
+    height:400px;
+}
+
+figcaption {
+    margin-top: -10px;
+    margin-bottom: 50px;
+}
+
+.funParagraph {
+    color:green;
+}
